@@ -1,6 +1,6 @@
 body {
 	background-color: #efe6ec;
-	padding-top:70px;
+	
 }
 
 .cactus {
@@ -26,3 +26,9 @@ body {
 	padding-top:130px;
 }
 
+.navbar {
+  background: #efe6ec;
+  font-family: 'Graduate', cursive;
+  color: black;
+  padding-top:-20px;
+}
