@@ -1,0 +1,58 @@
+.firstray {
+	padding-top: 170px;
+}
+
+
+.music {
+	padding-left:40px;
+}
+
+.office {
+	padding-top:100px;
+}
+
+
+.grace{
+	padding-top:150px
+}
+
+.textone{
+	padding-top:200px;
+	padding-right:20px;
+}
+
+.ray2{
+	padding-top:200px;
+}
+
+
+.ray3 {
+	
+	padding-top:20px;
+}
+
+.ray4 {
+
+	padding-top:40px;
+
+
+}
+
+
+.navbar {
+  background: white;
+  font-family: 'Graduate', cursive;
+  color: black;
+  padding-top:-20px;
+
+}
+
+
+#pop-up{
+
+  display: none;
+  position: absolute;
+  width: 280px;
+  padding: 10px;
+  
+}
