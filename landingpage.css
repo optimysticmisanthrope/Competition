@@ -4,13 +4,53 @@
   color: white;
 }
 
-.body {
-  background-color: black;
- font-family: 'Cutive Mono', monospace;
-  font-size: 60px;
-  color: black;
-  text-align: center;
-<<<<<<< Updated upstream
+.link {
+font-family: 'Cutive Mono', monospace;
+color: #000000;
+font-size-adjust: 20px;
+}
+
+a:link, a:visited {
+    background-color: #fcfcf9;
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.optimalcontact {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  padding-left: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #000000;
+
+
+}
+
+.getreal {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  padding-right: 200px; 
+  padding: 100px;
+  padding-right: 50px;
+  padding-left: 80px;
+  background-color: #000000;
+
+}
+
+.smooth {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  padding: 100px;
+  background-color: #000000;
+
 }
 
 #red:hover {
@@ -43,41 +83,29 @@
   position: absolute;
 }
 
-.btn-default {
-
-}
-
 .btn-red {
   background-color: red;
-}
-
-#googleMaps {
-  width: 100%;
-  height: 400px;
-}
-=======
-  font-style: bold;
 }
 
 .span {
     display: inline-block;
     width: 50%;
-    float: right;
+    float: center;
   }
 
   #popup {
-    height: 140px;
-    width: 280px;
+    height: 240px;
+    width: 480px;
     position: fixed;
-    bottom: 50%;
-    right: 50%;
-    top: 50%
-    left: 50%;
+    bottom: 30%;
+    right: 30%;
     background-color: #000000;
     font-family: 'Cutive Mono', monospace;
-    color: white;
-    text-align: center;
+    color: black;
     padding: 10px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
   }
 
   #close {
@@ -87,4 +115,4 @@
     color: white;
     background-color: #000000;
   }
->>>>>>> Stashed changes
+
