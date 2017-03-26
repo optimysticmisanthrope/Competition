@@ -1,0 +1,91 @@
+body {
+	background-color:#ffcc00;
+}
+
+
+.tellhim {
+	display:none;
+	padding-bottom:100px;
+    font-size:200px;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+
+z-index:9999;
+position:absolute;
+}
+
+
+
+
+.blink {
+	padding-top:100px;
+	padding-left:200px;
+	position: absolute;
+}
+
+
+.video {
+	padding-top: 1000px;
+}
+
+
+
+
+.text {
+	font-size:40px;
+	font-weight: bold;
+	padding-top:90px;
+}
+
+
+.text2 {
+	padding-top:200px;
+	font-size:25px;
+}
+
+.betty {
+	padding-top:100px;
+}
+
+
+
+.lala{
+	padding-top:150px;
+}
+
+.beyonce{
+	padding-top:200px;
+	padding-left:200px;
+	padding-bottom:50px;
+}
+
+.hoverlemon {
+	padding-top:100px;
+}
+
+
+.navbar {
+  background: #ffcc00;
+  font-family: 'Graduate', cursive;
+  color: #eeeeee;
+  padding-top:-20px;
+}
+
+.navbar-header {
+	background: #ffcc00;
+  font-family: 'Graduate', cursive;
+  color: #eeeeee;
+  padding-top:-20px;
+
+
+}
+.navbar-brand {
+	background: #ffcc00;
+  font-family: 'Graduate', cursive;
+  color: #eeeeee;
+  padding-top:-20px;
+
+
+}
+
