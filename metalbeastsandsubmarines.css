@@ -1,0 +1,36 @@
+body {
+	background-color:#ff99cc;
+}
+
+.gif{
+	padding-top:100px;
+}
+
+.flame {
+	display:none;
+	padding-top:50px;
+	
+}
+
+
+.drill {
+	padding-top:400px;
+}
+
+
+.diagram{
+	padding-top:90px;
+}
+
+
+#boring {
+	font-size:20px;
+	font-weight:bold;
+	color:#ffe6ff;
+	padding-top:30px;
+}
+
+
+.building{
+	padding-top:80px;
+}
