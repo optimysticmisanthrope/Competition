@@ -17,55 +17,91 @@ a:link, a:visited {
     text-align: center; 
     text-decoration: none;
     display: inline-block;
-}
-
-
-.optimalcontact {
-  color: #000000;
-  font-family: 'Cutive Mono', monospace;
-  font background: #f7f7f7;
-  padding-left: 200px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  background-color: #000000;
-
 
 }
 
-.getreal {
-  color: #000000;
-  font-family: 'Cutive Mono', monospace;
-  font background: #f7f7f7;
-  padding-right: 200px; 
-  padding: 100px;
-  padding-right: 50px;
-  padding-left: 80px;
-  background-color: #000000;
-
-}
-
-.smooth {
+div.completehealth {
   color: #000000;
   font-family: 'Cutive Mono', monospace;
   font background: #f7f7f7;
   padding: 100px;
   background-color: #000000;
+  float: left;
+  padding-bottom: 80px;
+}
+
+div.differenthistory {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  padding: 100px;
+  background-color: #000000;
+  float: center;
+  padding-right: 20px;
+  padding-top: 100px;
 
 }
 
-#red:hover {
-	background: linear-gradient(to right, red , orange);
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+div.getreal {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  background-color: #000000;
+  float: right;
+  padding-right: 200px;
+
 }
 
-#orange:hover {
-	background: linear-gradient(to right, orange , yellow);
-	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+div.metalbeasts {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  padding-top: 100px;
+  background-color: #000000;
+  float: left;
+
 }
 
-#yellow:hover {
-	background: linear-gradient(to right, yellow , green);
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+div.smooth {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  padding: 100px;
+  padding-right: 30px;
+  background-color: #000000;
+  float: center;
+
+}
+
+
+div.optimalcontact {
+  color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  background-color: #000000;
+  float: center;
+  padding-left: 300px;
+}
+
+
+div.obviouslylemonade {
+   color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  background-color: #000000;
+  float: center;
+  padding-left: 600px;
+}
+
+div.tropicalhangover {
+   color: #000000;
+  font-family: 'Cutive Mono', monospace;
+  font background: #f7f7f7;
+  background-color: #000000;
+  float: center;
+  padding-left: 150px;
+  padding-bottom: 10px;
 }
 
 .tag {
@@ -83,15 +119,6 @@ a:link, a:visited {
   position: absolute;
 }
 
-.btn-red {
-  background-color: red;
-}
-
-.span {
-    display: inline-block;
-    width: 50%;
-    float: center;
-  }
 
   #popup {
     height: 240px;
